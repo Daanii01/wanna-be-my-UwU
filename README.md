@@ -1,2 +1,2 @@
-# wanna-be-my-friend
+# jajaja-be-my-friend
 Youtube tutorial code
